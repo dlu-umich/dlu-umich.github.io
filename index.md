@@ -1,6 +1,6 @@
 #### About me:
 
-I am a second year quant finance master's student at the University of Michigan. In this page, I would like to showcase the mathematical models and technical tools with projects I have worked on. My interests are in the fields of quantative analysis, risk analytics, data science and machine learning.
+I am a second year quant finance master's student at the University of Michigan. In the web page, I would like to showcase the mathematical models and technical tools with projects I have worked on. My interests are in the fields of quantative analysis, risk analytics, data science and machine learning.
 
 #### Risk Management
 VaR monitor with parametric, historical, Monte Carlo VaR calculation to carve [risk profiles](https://github.com/dlu-umich/RiskApp) of portfolios.
