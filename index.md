@@ -12,8 +12,14 @@ VaR monitor with parametric, historical, Monte Carlo VaR calculation to carve [r
 In flight
 
 #### Data Manipulation
-I studied data manipulation and analysis methods from SI816 with School of Information. Having appied 
+I studied data manipulation and analysis methods from SI 816 with the School of Information. Having appied 
 - Seaborn for visualization
 - SpaCy for nature language processing
 - Scikit-learn for machine learning
 - course project
+
+#### Mathematical Modeling:
+ - Jane Street Min Max Correlation puzzle:
+ I worked on a math puzzle from [Jane Street](https://www.janestreet.com/puzzles/) and presented to the class.
+ 
+
