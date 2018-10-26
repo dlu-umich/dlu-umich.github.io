@@ -19,7 +19,8 @@ I studied data manipulation and analysis methods from SI 816 with the School of 
 - course project
 
 #### Mathematical Modeling:
- - Jane Street Min Max Correlation puzzle:
+ - Jane Street's Min Max Correlation puzzle:
  I worked on a math puzzle from [Jane Street](https://www.janestreet.com/puzzles/) and presented to the class.
+ - Numerical Methods
  
 
