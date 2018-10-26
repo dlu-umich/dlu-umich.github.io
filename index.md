@@ -1,6 +1,3 @@
-// ### Hello, this is Di Lu's web page.
-
-
 #### About me:
 
 I am a second year quant finance master's student at the University of Michigan. In this page, I would like to showcase the mathematical models and technical tools with projects I have worked on. My interests are in the fields of quantative analysis, risk analytics, data science and machine learning.
