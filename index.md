@@ -16,7 +16,7 @@ I studied data manipulation and analysis methods from SI 816 with the School of 
 - course project - Cryptocurrency [Trading Data Anaysis](https://github.com/dlu-umich/Data-Manipulation-and-Analysis).
 
 #### Mathematical Modeling:
- - Jane Street's Min Max Correlation puzzle:
+ - Jane Street's [Min Max Correlation](https://pbenson.github.io/quant-projects/JaneStreetCorrelationProblem.JPG) puzzle:
  I worked on a math puzzle from [Jane Street](https://www.janestreet.com/puzzles/) and presented to the class.
  - Numerical Methods
  
