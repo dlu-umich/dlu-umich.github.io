@@ -13,7 +13,7 @@ I studied data manipulation and analysis methods from SI 816 with the School of 
 - Seaborn for visualization
 - SpaCy for nature language processing
 - Scikit-learn for machine learning
-- course project
+- course project - Cryptocurrency [Trading Data Anaysis](https://github.com/dlu-umich/Data-Manipulation-and-Analysis).
 
 #### Mathematical Modeling:
  - Jane Street's Min Max Correlation puzzle:
