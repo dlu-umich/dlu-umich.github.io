@@ -1,12 +1,12 @@
 #### About me:
 
-I am a second year quant finance master's student at the University of Michigan. In the web page, I would like to showcase the mathematical models and technical tools with projects I have worked on. My interests are in the fields of quantative analysis, risk analytics, data science and machine learning.
+I am a second year quant finance master's student at the University of Michigan. In this page, I would like to showcase the mathematical models and technical tools with projects I have worked on. My interests are in the fields of quantitative modeling, risk analytics and machine learning.
 
 #### Student Led Workshop
-The workshop of the Quant program is led by students for discussion of ... on friday morning. See [here](https://dlu-umich.github.io/friday-workshop/) for details. 
+The workshop of the Quant program is led by students for discussion of quant finance problems on friday morning. See [here](https://dlu-umich.github.io/friday-workshop/) for details. 
 
 #### Risk Management
-VaR monitor with parametric, historical, Monte Carlo VaR calculation to carve [risk profiles](https://github.com/dlu-umich/RiskApp) of portfolios.
+VaR monitor with parametric, historical, Monte Carlo VaR calculation to carve the risk profile of portfolios.
 
 #### Machine Learning
 In flight
