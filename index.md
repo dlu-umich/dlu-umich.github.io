@@ -26,5 +26,9 @@ I studied data manipulation and analysis methods from SI 816 with the School of 
 - Scikit-learn for machine learning
 - course project - Cryptocurrency [Trading Data Anaysis](https://github.com/dlu-umich/Data-Manipulation-and-Analysis).
 
+#### Miscellaneous
+- You have 1000 coins. 999 are fair. 1 have 2 heads. You randomly pick one and toss it 10 times. It comes out 10 heads. What is the probability you pick the coin with the two heads?
+
+
  
 
